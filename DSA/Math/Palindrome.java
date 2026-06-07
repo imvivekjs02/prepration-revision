@@ -7,7 +7,7 @@ Link:
 https://leetcode.com/problems/palindrome-number/description/?envType=problem-list-v2&envId=do1uosyi
 
 Approach:
-Reverse the number using division and modulo operations and check if it is same as original number.
+Palindrome number using division and modulo operations and check if it is same as original number.
 
 Time Complexity:
 O(log 10 num)
