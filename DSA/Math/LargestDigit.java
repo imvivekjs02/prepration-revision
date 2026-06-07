@@ -6,7 +6,7 @@ Largest Digit
 Link:
 
 Approach:
-Reverse the number using division and modulo operations and returining the largest digit from integer.
+Find largest digit division and modulo operations and returining the largest digit from integer.
 
 Time Complexity:
 O(log 10 num)
