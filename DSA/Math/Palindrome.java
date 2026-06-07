@@ -10,10 +10,10 @@ Approach:
 Reverse the number using division and modulo operations and check if it is same as original number.
 
 Time Complexity:
-O(n)
+O(log 10 num)
 
 Space Complexity:
-O(n)
+O(1)
 */
 
 public class Palindrome {
