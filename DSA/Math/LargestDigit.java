@@ -1,4 +1,5 @@
 package DSA.Math;
+
 /*
 Problem:
 Largest Digit
@@ -6,7 +7,7 @@ Largest Digit
 Link:
 
 Approach:
-Find largest digit division and modulo operations and returining the largest digit from integer.
+Reverse the number using division and modulo operations and returining the largest digit from integer.
 
 Time Complexity:
 O(log 10 num)
